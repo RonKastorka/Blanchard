@@ -3,6 +3,7 @@ Blanchard - web page of art studio. This is an example of my ability to create a
 # How to start
 You can find it by link on free hosting [Blanchard-galary](http://blanchardronkastorka.webtm.ru/)<br>
 or, you need to clone the entire contents of the git clone <this repo> repository or download the ZIP archive of the repository. Then open the file index.html , located at the root of the project.
+![Image alt](https://github.com/Sergey-Karpov/Blanchard-art-gallery/blob/main/screens/header.png)
 ____
 ### rus
 # 🎨 Blanchard - веб-страница арт-студии <br>
