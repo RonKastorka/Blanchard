@@ -3,6 +3,8 @@
 # Как запустить проект
 Вы можете найти его по ссылке на бесплатном хостинге [Blanchard-galary](http://blanchardronkastorka.webtm.ru/) <br>
 или вам нужно клонировать все содержимое репозитория git clone <this repo> или загрузить ZIP-архив репозитория. Затем откройте файл index.html , расположенный в корне проекта.
+___
+### screens
 ![Image alt](https://github.com/Sergey-Karpov/Blanchard-art-gallery/blob/main/screens/header_nav.png)
 ____
 ### eng
